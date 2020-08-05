@@ -59,11 +59,13 @@ Data Base:
 
     PostgresSQL
 
-### Autor/es
+### Autor
 ---
 
 JHOJANY UZCATEGUI
+
 Correo: jhojaforce@gmail.com
+
 Linkedin: https://www.linkedin.com/in/jhojany-jose-uzcategui-araujo-879b82130/
 
 
